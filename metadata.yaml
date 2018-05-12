@@ -1,0 +1,29 @@
+_repo: FragonardMasterpieces-in-Colour-Series_42118
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42118-h/images/cover.jpg
+creator:
+  author:
+    agent_name: MacFall, Haldane
+    alias: Macfall, Chambers Haldane Cooke
+    birthdate: 1860
+    deathdate: 1928
+    gutenberg_agent_id: '34515'
+    url: http://www.gutenberg.org/2009/agents/34515
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2013-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42118'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcc 'ND'
+- !lcsh 'Fragonard, Jean Honoré, 1732-1806'
+title: Fragonard
+url: http://www.gutenberg.org/ebooks/42118
