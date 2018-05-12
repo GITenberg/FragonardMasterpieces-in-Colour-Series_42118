@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34515'
     url: http://www.gutenberg.org/2009/agents/34515
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42118#FragonardMasterpieces-in-Colour-Series
 gutenberg_bookshelf: Masterpieces in Colour
 gutenberg_issued: '2013-02-17'
 gutenberg_type: Text
